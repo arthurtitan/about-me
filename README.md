@@ -27,6 +27,6 @@
 
 ## GitHub Stats
 
-[![Arthur Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurhenrique&show_icons=true&theme=radical&hide=["contribs","issues"])](https://github.com/arthurhenrique)
+[![Arthur Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurtitan&show_icons=true&theme=radical&hide=["contribs","issues"])](https://github.com/arthurtitan)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurhenrique&show_icons=true&theme=radical)](https://github.com/arthurhenrique/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurtitan&show_icons=true&theme=radical)](https://github.com/arthurtitan/github-readme-stats)
